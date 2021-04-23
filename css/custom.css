@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+
+/* 
+font-weight 400 - Regular
+font-weight 500 - Medium
+font-weight 600 - Semi-Bold
+font-weight 700 - Bold
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+.nav-container {
+    background-color: #1269ec;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: #fff !important;
+    font-size: 1.6rem;
+}
+
+.nav-link {
+    font-weight: 400;
+    color: #fff !important;
+}
+
