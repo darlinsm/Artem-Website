@@ -1,8 +1,9 @@
 @charset "UTF-8";
 /* Add your custom CSS declarations below  */
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 /* 
+font-weight 300 - Light
 font-weight 400 - Regular
 font-weight 500 - Medium
 font-weight 600 - Semi-Bold
@@ -12,11 +13,37 @@ font-weight 700 - Bold
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-container, .hero {
+    padding-right: 125px;
+    padding-left: 125px;
+}
+
+.hero {
+    background-color: #0066F2;
+    height: 70vh;
+    color: #fff;
+}
+
+.hero-image {
+    padding-top: 150px;
+    width: 50%;
+    height: auto;
+}
+
+.jumbo-title {
+    padding-top: 150px;
+    font-weight: bold;
+}
+
+.jumbo-subtitle {
+    font-weight: 500;
 }
 
 .nav-container {
-    background-color: #1269ec;
+    background-color: #0B5CE0;
 }
 
 .navbar-brand {
