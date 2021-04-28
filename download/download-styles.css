@@ -4,6 +4,16 @@
 
 .hero {
     background-color: #ED6A5A;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.mobile-piece {
+    padding-top: 50px;
+}
+
+.mobile-piece h2 {
+    font-weight: 400;
 }
 
 .cust-card {
