@@ -28,6 +28,10 @@
     background-color: #0066F2 !important;
 }
 
+.btn:hover {
+    background-color: #1b76f7 !important;
+}
+
 .btn-secondary {
     background-color: #000 !important;
     border: none !important;
