@@ -1,0 +1,20 @@
+.artem-careers {
+    padding-top: 150px;
+}
+
+h1 {
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.card {
+    text-align: left;
+    border-radius: 25px;
+    margin: 0 auto;
+    float: none;
+    padding: 10px;
+}
+
+.row {
+    padding-bottom: 30px;
+}
