@@ -110,6 +110,10 @@ section {
     padding-left: 50px;
 }
 
-.btn:hover {
+.btn-primary:hover {
+    background-color: #ee7c6d !important;
+}
 
+.btn-secondary:hover {
+    background-color: rgb(70, 70, 70) !important;
 }
