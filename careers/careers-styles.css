@@ -1,10 +1,29 @@
-.artem-careers {
-    padding-top: 150px;
+.intro {
+    background-color: #0066F2;
+}
+
+.hero {
+    height: auto;
+    padding-bottom: 150px;
+}
+
+.card:hover {
+    border-color: #000;
 }
 
 h1 {
     font-weight: bold;
     padding-bottom: 15px;
+    color: #fff !important;
+}
+
+.subtitle {
+    color: #fff !important;
+}
+
+section {
+    margin-top: -7%;
+    padding: 0 !important;
 }
 
 .card {
@@ -15,6 +34,3 @@ h1 {
     padding: 10px;
 }
 
-.row {
-    padding-bottom: 30px;
-}

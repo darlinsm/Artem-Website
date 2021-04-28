@@ -1,5 +1,21 @@
+.nav-container {
+    background-color: #df6656;
+}
+
+.hero {
+    background-color: #ED6A5A;
+}
+
 .cust-card {
     border-radius: 20px;
+}
+
+.nav-link:hover {
+    color: #0066F2 !important;
+}
+
+.btn {
+    background-color: #0066F2 !important;
 }
 
 .btn-secondary {
