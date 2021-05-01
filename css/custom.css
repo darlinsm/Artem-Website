@@ -44,7 +44,7 @@ img {
 }
 
 .hero-image {
-    margin-left: -79%;
+    margin-left: -85%;
     margin-top: -10%;
     width: 200%;
     height: auto;
@@ -97,7 +97,7 @@ img {
 }
 
 section {
-    padding: 100px 0px;
+    padding-top: 100px;
 }
 
 .info-left {
@@ -116,4 +116,45 @@ section {
 
 .btn-secondary:hover {
     background-color: rgb(70, 70, 70) !important;
+}
+
+.contact-section {
+    margin-top: 100px;
+    padding: 100px 0px;
+    background-color: #ED6A5A;
+    color: #fff;
+}
+
+.contact-section h2 {
+    font-weight: bold;
+    font-size: 3.6rem;
+}
+
+.contact-section .btn {
+    background-color: #0066F2 !important;
+}
+
+.contact-section .btn:hover {
+    background-color: #1b76f7 !important;
+}
+
+footer h3 {
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+footer .address, .contact {
+    padding-top: 100px;
+}
+
+footer .address {
+    text-align: left;
+}
+
+footer .contact {
+    text-align: right;
 }
